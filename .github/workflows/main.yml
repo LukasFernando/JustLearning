@@ -16,5 +16,5 @@ jobs:
         run: python -m pip install --upgrade pip
       - name: Runnig python
         run: |
-          python ../../add_issue_on_readme.py ${{ issues }}
+          python ../../add_issue_on_readme.py teste
 
