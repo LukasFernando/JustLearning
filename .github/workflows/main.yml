@@ -12,5 +12,6 @@ jobs:
       - name: Install dependencies
         run: python -m pip install --upgrade pip
       - name: Runnig python
-        run: python add_issue_on_readme.py
+        uses: LukasFernando/JustLearning@main
+#         run: python add_issue_on_readme.py
         
