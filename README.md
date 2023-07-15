@@ -4,7 +4,10 @@
   All the issues are here... 
 </div>
 
-<toggle>
+<details>
+  Teste 
+  Teste
+</details>
 
 
 
