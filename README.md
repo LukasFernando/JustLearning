@@ -4,10 +4,10 @@
   All the issues are here... 
 </div>
 
-<details>
+<teste>
   Teste 
   Teste
-</details>
+</teste>
 
 
 
