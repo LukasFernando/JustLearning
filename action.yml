@@ -1,0 +1,12 @@
+
+name: "Runnig Python"
+author: "Me"
+
+
+
+inputs:
+  issue-name: 
+    required: true
+    default: "issue without a name"
+
+  
