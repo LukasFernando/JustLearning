@@ -2,7 +2,12 @@
 name: "Runnig Python"
 author: "Me"
 
-
+runs:
+  using: "docker"
+  image: "Dockerfile"
+branding:
+  icon: "git-branch"
+  color: "red"
 
 inputs:
   issue-name: 
