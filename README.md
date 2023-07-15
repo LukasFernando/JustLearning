@@ -5,8 +5,8 @@
 </div>
 
 <details id="details-all issues">
-  Teste 
-  Teste
+  <div> Teste </div> 
+  <div> Teste </div>
 </details>
 
 
